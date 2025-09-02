@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission
+        android:name="com.google.android.gms.permission.AD_ID"
+        tools:node="remove" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Base.Theme.MoodifyAI"
+        tools:targetApi="31">
+        <activity
+            android:name=".AdminDashboardScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.AdminApprovalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.AdminLoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".chatbot.ChatbotActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chat.UserListActivity"
+            android:exported="false" />
+
+        <receiver android:name=".notify.NotifyManager" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.sdk.ClientToken"
+            android:value="@string/facebook_client_token" />
+
+        <activity
+            android:name=".chat.VideoCallActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chat.VoiceCallActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chat.ChatActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".chat.TherapistListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".deep_breathing.FinishBreathingScreen"
+            android:exported="false" />
+        <activity
+            android:name=".deep_breathing.ExhaleScreen"
+            android:exported="false" />
+        <activity
+            android:name=".deep_breathing.HoldScreen"
+            android:exported="false" />
+        <activity
+            android:name=".deep_breathing.InhaleScreen"
+            android:exported="false" />
+        <activity
+            android:name=".meditation.MeditationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".meditation.FinishMeditationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".meditation.StartMeditationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.LoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.TherapistRegisterScreen"
+            android:exported="false" />
+        <activity
+            android:name=".TherapistDashboardScreen"
+            android:exported="false" />
+        <activity
+            android:name=".deep_breathing.DeepBreathingScreen"
+            android:exported="false" />
+        <activity
+            android:name=".RolesScreen"
+            android:exported="false" />
+        <activity
+            android:name=".coping_strategies.CopingDetailsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".affirmation.AffirmationDetailsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".affirmation.AffirmationCategoryScreen"
+            android:exported="false" />
+        <activity
+            android:name=".coping_strategies.CopingStrategyScreen"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnBoardingScreen"
+            android:exported="false" />
+        <activity
+            android:name=".quotes.QuoteDetailsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".quotes.QuotesCategoryScreen"
+            android:exported="false" />
+        <activity
+            android:name=".mood_calender.MoodCalenderScreen"
+            android:exported="false" />
+        <activity
+            android:name=".quotes.QuotesScreen"
+            android:exported="false" />
+        <activity
+            android:name=".affirmation.AffirmationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".tips.TipDetailScreen"
+            android:exported="false" />
+        <activity
+            android:name=".tips.TipsCategoryScreen"
+            android:exported="false" />
+        <activity
+            android:name=".tips.TipsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".notepad.AddNotes"
+            android:exported="false" />
+        <activity
+            android:name=".DashboardScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_emotion.VeryHappyScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_emotion.SadScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_emotion.NeutralScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_emotion.HappyScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_emotion.AngryScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen10"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.PreparingPlanScreen"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen9"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen8"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen7"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen6"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen5"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen4"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen3"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen2"
+            android:exported="false" />
+        <activity
+            android:name=".user_personal_info.Screen1"
+            android:exported="false" />
+        <activity
+            android:name=".notepad.NotepadScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.ResetPasswordSuccessScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.ForgetPasswordScreen"
+            android:exported="false" />
+        <activity
+            android:name=".GetStartedScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.RegisterScreen"
+            android:exported="false" />
+        <activity
+            android:name=".auth.TherapistLoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="@string/fb_login_protocol_scheme"
+                    tools:ignore="ManifestResource" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,607 @@
+{
+  "quotes": [
+    {
+      "category": "Uplifting",
+      "quotes": [
+        {
+          "title": "Rise Again",
+          "quote": "Even the darkest nights end with a sunrise.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/17709759/pexels-photo-17709759/free-photo-of-direction-sign-on-the-top-of-escalator.jpeg"
+        },
+        {
+          "title": "Courage Within",
+          "quote": "You’re braver than you think and stronger than you know.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/27721322/pexels-photo-27721322/free-photo-of-rider-in-a-costume-on-a-rearing-horse.jpeg"
+        },
+        {
+          "title": "The Fighter",
+          "quote": "Every setback is a setup for a comeback.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8744803/pexels-photo-8744803.jpeg"
+        },
+        {
+          "title": "This Too Shall Pass",
+          "quote": "The pain you feel today will become strength tomorrow.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6631421/pexels-photo-6631421.jpeg"
+        },
+        {
+          "title": "Inner Light",
+          "quote": "Let your inner light guide you through the darkness.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/7170759/pexels-photo-7170759.jpeg"
+        },
+        {
+          "title": "Healing Takes Time",
+          "quote": "Take your time. Healing is a journey, not a race.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6933167/pexels-photo-6933167.jpeg"
+        },
+        {
+          "title": "Not Alone",
+          "quote": "You’re not alone in this. You’re surrounded by love.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29899555/pexels-photo-29899555/free-photo-of-contemplative-woman-sitting-by-window-in-black-and-white.jpeg"
+        },
+        {
+          "title": "Stronger Tomorrow",
+          "quote": "Today’s challenges are tomorrow’s strengths.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8899325/pexels-photo-8899325.jpeg"
+        },
+        {
+          "title": "It Gets Better",
+          "quote": "Hold on. The best is yet to come.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/10755925/pexels-photo-10755925.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "title": "New Beginnings",
+          "quote": "Every ending is the start of something new and beautiful.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3171820/pexels-photo-3171820.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Reassuring",
+      "quotes": [
+        {
+          "title": "You’re Not Alone",
+          "quote": "No matter how tough it feels right now, you’re never walking this path alone.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29504299/pexels-photo-29504299/free-photo-of-portrait-with-mental-health-message.jpeg"
+        },
+        {
+          "title": "This Too Shall Pass",
+          "quote": "Even the hardest days have an end. Brighter moments are ahead.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2874724/pexels-photo-2874724.jpeg"
+        },
+        {
+          "title": "Safe and Steady",
+          "quote": "Take it one step at a time; you’re exactly where you need to be.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6568105/pexels-photo-6568105.jpeg"
+        },
+        {
+          "title": "A Light Ahead",
+          "quote": "Even when the tunnel feels long, there’s always light at the end.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29913805/pexels-photo-29913805/free-photo-of-mysterious-cowboy-and-horse-in-monochrome.jpeg"
+        },
+        {
+          "title": "Small Victories Matter",
+          "quote": "Celebrate the small wins today. They’re paving the way for bigger ones.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29862854/pexels-photo-29862854/free-photo-of-cozy-japanese-street-shop-at-night.jpeg"
+        },
+        {
+          "title": "Strength Within",
+          "quote": "You’re stronger than you believe, and this challenge will only make you grow.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29886679/pexels-photo-29886679/free-photo-of-black-and-white-portrait-of-fit-adult-male.jpeg"
+        },
+        {
+          "title": "Gentle Reminders",
+          "quote": "It’s okay to feel overwhelmed. You’re doing the best you can, and that’s enough.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29885750/pexels-photo-29885750/free-photo-of-contemplative-moment-in-vietnamese-home.jpeg"
+        },
+        {
+          "title": "You’ve Got This",
+          "quote": "Even if it feels impossible now, trust yourself—you’ll find a way through.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2740954/pexels-photo-2740954.jpeg"
+        },
+        {
+          "title": "Loved and Valued",
+          "quote": "You are deeply loved and valued, even if it doesn’t feel that way right now.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/25842011/pexels-photo-25842011/free-photo-of-black-and-white-photo-of-a-woman-holding-her-little-baby.jpeg"
+        },
+        {
+          "title": "A Calm After the Storm",
+          "quote": "No storm lasts forever. You’ll find peace again, one moment at a time.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/13936232/pexels-photo-13936232.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Healing",
+      "quotes": [
+        {
+          "title": "The Process Takes Time",
+          "quote": "Healing isn’t instant, but every small step forward is a step toward peace.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6932520/pexels-photo-6932520.jpeg"
+        },
+        {
+          "title": "Scars Tell a Story",
+          "quote": "Every scar you bear is a testament to your strength and survival.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2228580/pexels-photo-2228580.jpeg"
+        },
+        {
+          "title": "Your Heart Can Mend",
+          "quote": "Even the deepest wounds have the power to heal with time and love.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/9486081/pexels-photo-9486081.jpeg"
+        },
+        {
+          "title": "Renewal Awaits",
+          "quote": "Healing is not about forgetting but about learning to breathe again.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6473969/pexels-photo-6473969.jpeg"
+        },
+        {
+          "title": "A Gentle Journey",
+          "quote": "Be gentle with yourself; healing is a journey, not a destination.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/18868270/pexels-photo-18868270/free-photo-of-redhead-girl-with-book-in-boat-on-river.jpeg"
+        },
+        {
+          "title": "The Power of Rest",
+          "quote": "Sometimes, the best way to heal is to simply allow yourself to rest.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/5496591/pexels-photo-5496591.jpeg"
+        },
+        {
+          "title": "New Beginnings",
+          "quote": "Every ending paves the way for a new beginning to blossom.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/18849218/pexels-photo-18849218/free-photo-of-rings-on-newlyweds-hands.jpeg"
+        },
+        {
+          "title": "Healing Through Hope",
+          "quote": "Hope is the first step toward healing—cling to it tightly.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6932916/pexels-photo-6932916.jpeg"
+        },
+        {
+          "title": "One Day at a Time",
+          "quote": "Healing comes in waves—ride them gently, one day at a time.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/5263279/pexels-photo-5263279.jpeg"
+        },
+        {
+          "title": "The Resilient Spirit",
+          "quote": "Your spirit is resilient. Trust in its ability to heal and rise.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/9489072/pexels-photo-9489072.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Empathy",
+      "quotes": [
+        {
+          "title": "I Feel Your Pain",
+          "quote": "Your struggles are valid, and I’m here to walk with you through them.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/10802211/pexels-photo-10802211.jpeg"
+        },
+        {
+          "title": "A Safe Space",
+          "quote": "I may not have the answers, but I’m here to hold space for your feelings.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29122145/pexels-photo-29122145/free-photo-of-ethereal-white-fabric-panels-in-minimalist-indoor-space.jpeg"
+        },
+        {
+          "title": "Listening Without Judgment",
+          "quote": "I’m here to listen—not to fix or judge, just to understand.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29888267/pexels-photo-29888267/free-photo-of-vintage-turntable-playing-vinyl-record-close-up.jpeg"
+        },
+        {
+          "title": "Together in This",
+          "quote": "You don’t have to carry this burden alone. I’m here to share it with you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29888247/pexels-photo-29888247/free-photo-of-casual-urban-street-scene-with-pedestrians.jpeg"
+        },
+        {
+          "title": "Your Feelings Are Valid",
+          "quote": "It’s okay to feel what you feel. Every emotion has its place.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3723686/pexels-photo-3723686.jpeg"
+        },
+        {
+          "title": "I See You",
+          "quote": "I see your pain, and I want you to know you’re not invisible in this.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2494701/pexels-photo-2494701.jpeg"
+        },
+        {
+          "title": "I’m Here for You",
+          "quote": "I may not have the perfect words, but my heart is with you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2739305/pexels-photo-2739305.jpeg"
+        },
+        {
+          "title": "Understanding the Unspoken",
+          "quote": "Even if you can’t put it into words, I feel what you’re going through.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8560839/pexels-photo-8560839.jpeg"
+        },
+        {
+          "title": "The Power of Connection",
+          "quote": "Empathy connects us, reminding us we’re never truly alone.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6931832/pexels-photo-6931832.jpeg"
+        },
+        {
+          "title": "Your Story Matters",
+          "quote": "Your experiences are important, and I’m here to honor them with you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Support",
+      "quotes": [
+        {
+          "title": "Lean on Me",
+          "quote": "Whenever you feel weak, lean on me—I’ll hold you up.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/7063749/pexels-photo-7063749.jpeg"
+        },
+        {
+          "title": "A Shoulder to Lean On",
+          "quote": "When the weight is too much, I’m here to share the load.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/7672093/pexels-photo-7672093.jpeg"
+        },
+        {
+          "title": "We’ll Face It Together",
+          "quote": "No matter the challenge, we’ll face it together, step by step.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3692751/pexels-photo-3692751.jpeg"
+        },
+        {
+          "title": "Your Rock in the Storm",
+          "quote": "When everything feels unsteady, I’ll be your rock.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3314876/pexels-photo-3314876.jpeg"
+        },
+        {
+          "title": "Here to Hold You",
+          "quote": "You’re not alone—I’m here to hold you through the tough times.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg"
+        },
+        {
+          "title": "A Steady Hand",
+          "quote": "When you feel like you’re falling, I’ll be here to catch you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8728463/pexels-photo-8728463.jpeg"
+        },
+        {
+          "title": "Together, Always",
+          "quote": "You and I—we’ll get through this, no matter how tough it gets.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29916574/pexels-photo-29916574/free-photo-of-romantic-couple-holding-hands-at-rocky-beach.jpeg"
+        },
+        {
+          "title": "A Guiding Light",
+          "quote": "Even when you feel lost, I’ll be here to guide you back.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2950499/pexels-photo-2950499.jpeg"
+        },
+        {
+          "title": "Unwavering Support",
+          "quote": "My support doesn’t waver, no matter how heavy your burden feels.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29826680/pexels-photo-29826680/free-photo-of-engaged-couple-holding-hands-outdoors.jpeg"
+        },
+        {
+          "title": "By Your Side",
+          "quote": "Through thick and thin, I’ll stand by your side, always.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/12541743/pexels-photo-12541743.jpeg"
+        }
+      ]
+    }
+  ],
+
+  "affirmations": [
+    {
+      "category": "Positive",
+      "affirmations": [
+        {
+          "title": "Embrace Positivity",
+          "affirmation": "Everywhere you go, take a smile with you.",
+          "image": "https://images.pexels.com/photos/13899664/pexels-photo-13899664.jpeg"
+        },
+        {
+          "title": "Bright Day",
+          "affirmation": "Let your light shine brighter today.",
+          "image": "https://images.pexels.com/photos/16960809/pexels-photo-16960809/free-photo-of-people-sitting-on-the-bench-and-looking-at-the-view-of-sea.jpeg"
+        },
+        {
+          "title": "Choose Happiness",
+          "affirmation": "Happiness is a choice, so choose it every moment.",
+          "image": "https://images.pexels.com/photos/9300659/pexels-photo-9300659.jpeg"
+        },
+        {
+          "title": "Positive Vibes",
+          "affirmation": "Good vibes attract good lives.",
+          "image": "https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg"
+        },
+        {
+          "title": "Energy Booster",
+          "affirmation": "Keep spreading the energy that inspires others.",
+          "image": "https://images.pexels.com/photos/8541401/pexels-photo-8541401.jpeg"
+        },
+        {
+          "title": "Infinite Joy",
+          "affirmation": "Happiness multiplies when shared.",
+          "image": "https://images.pexels.com/photos/12955544/pexels-photo-12955544.jpeg"
+        },
+        {
+          "title": "New Beginnings",
+          "affirmation": "Each morning is a chance to start fresh.",
+          "image": "https://images.pexels.com/photos/2814808/pexels-photo-2814808.jpeg"
+        },
+        {
+          "title": "Be the Sunshine",
+          "affirmation": "Radiate positivity like the sun radiates warmth.",
+          "image": "https://images.pexels.com/photos/29874465/pexels-photo-29874465/free-photo-of-elderly-man-sitting-by-bosphorus-in-istanbul.jpeg"
+        },
+        {
+          "title": "Stay Joyful",
+          "affirmation": "Happiness is a journey, not a destination.",
+          "image": "https://images.pexels.com/photos/4009589/pexels-photo-4009589.jpeg"
+        },
+        {
+          "title": "Gratitude Glow",
+          "affirmation": "A grateful heart is a magnet for joy.",
+          "image": "https://images.pexels.com/photos/19833502/pexels-photo-19833502/free-photo-of-heart-shape-neon.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "affirmations": [
+        {
+          "title": "Grateful Heart",
+          "affirmation": "A grateful heart is a magnet for miracles.",
+          "image": "https://images.pexels.com/photos/4560448/pexels-photo-4560448.jpeg"
+        },
+        {
+          "title": "Simple Blessings",
+          "affirmation": "Happiness grows when you count your blessings.",
+          "image": "https://images.pexels.com/photos/29875895/pexels-photo-29875895/free-photo-of-dramatic-black-and-white-side-profile-portrait.jpeg"
+        },
+        {
+          "title": "Morning Thanks",
+          "affirmation": "Start your day with a thankful heart.",
+          "image": "https://images.pexels.com/photos/29861067/pexels-photo-29861067/free-photo-of-morning-coffee-with-latte-art-in-cozy-cafe-setting.jpeg"
+        },
+        {
+          "title": "Power of Gratitude",
+          "affirmation": "Gratitude turns what we have into enough.",
+          "image": "https://images.pexels.com/photos/4220967/pexels-photo-4220967.jpeg"
+        },
+        {
+          "title": "Celebrate the Good",
+          "affirmation": "Find joy in the little things you often take for granted.",
+          "image": "https://images.pexels.com/photos/5702979/pexels-photo-5702979.jpeg"
+        },
+        {
+          "title": "Today’s Gift",
+          "affirmation": "Each day is a gift—unwrap it with a smile.",
+          "image": "https://images.pexels.com/photos/29842376/pexels-photo-29842376/free-photo-of-cozy-christmas-holiday-flat-lay-with-gifts-and-cards.jpeg"
+        },
+        {
+          "title": "Thankful Moments",
+          "affirmation": "Collect moments, not things, and be thankful for them.",
+          "image": "https://images.pexels.com/photos/10612260/pexels-photo-10612260.jpeg"
+        },
+        {
+          "title": "Shine Through Gratitude",
+          "affirmation": "The more grateful you are, the more beauty you’ll see.",
+          "image": "https://images.pexels.com/photos/29841330/pexels-photo-29841330/free-photo-of-dramatic-sunset-over-calm-ocean-waters.jpeg"
+        },
+        {
+          "title": "Endless Thanks",
+          "affirmation": "Gratitude is a never-ending story of joy.",
+          "image": "https://images.pexels.com/photos/6510344/pexels-photo-6510344.jpeg"
+        },
+        {
+          "title": "Grateful Soul",
+          "affirmation": "Happiness blooms where gratitude grows.",
+          "image": "https://images.pexels.com/photos/2449605/pexels-photo-2449605.png"
+        }
+      ]
+    },
+    {
+      "category": "Self-Love",
+      "affirmations": [
+        {
+          "title": "Love Yourself First",
+          "affirmation": "You can’t pour from an empty cup. Take care of yourself first.",
+          "image": "https://images.pexels.com/photos/8541356/pexels-photo-8541356.jpeg"
+        },
+        {
+          "title": "You Are Enough",
+          "affirmation": "Never forget, you are worthy just the way you are.",
+          "image": "https://images.pexels.com/photos/20671757/pexels-photo-20671757/free-photo-of-paper-card-on-tree-bark.jpeg"
+        },
+        {
+          "title": "Inner Peace",
+          "affirmation": "Self-love is the foundation of inner peace.",
+          "image": "https://images.pexels.com/photos/8038031/pexels-photo-8038031.jpeg"
+        },
+        {
+          "title": "Be Kind to You",
+          "affirmation": "Treat yourself the way you’d treat someone you love.",
+          "image": "https://images.pexels.com/photos/9196486/pexels-photo-9196486.jpeg"
+        },
+        {
+          "title": "Radiate Confidence",
+          "affirmation": "Your vibe attracts your tribe. Love yourself first.",
+          "image": "https://images.pexels.com/photos/29878687/pexels-photo-29878687/free-photo-of-stylish-couple-posing-in-urban-environment.jpeg"
+        },
+        {
+          "title": "The Best You",
+          "affirmation": "The best project you’ll ever work on is yourself.",
+          "image": "https://images.pexels.com/photos/14746728/pexels-photo-14746728.jpeg"
+        },
+        {
+          "title": "Own Your Story",
+          "affirmation": "Embrace your imperfections—they make you unique.",
+          "image": "https://images.pexels.com/photos/3007370/pexels-photo-3007370.jpeg"
+        },
+        {
+          "title": "Believe in You",
+          "affirmation": "The moment you believe in yourself, magic happens.",
+          "image": "https://images.pexels.com/photos/1615776/pexels-photo-1615776.jpeg"
+        },
+        {
+          "title": "You Deserve Happiness",
+          "affirmation": "Give yourself permission to be happy every single day.",
+          "image": "https://images.pexels.com/photos/3101548/pexels-photo-3101548.jpeg"
+        },
+        {
+          "title": "Shine Bright",
+          "affirmation": "Self-love isn’t selfish—it’s the key to your happiness.",
+          "image": "https://images.pexels.com/photos/6140243/pexels-photo-6140243.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Motivational",
+      "affirmations": [
+        {
+          "title": "Keep Moving Forward",
+          "affirmation": "Every step you take brings you closer to your dreams.",
+          "image": "https://images.pexels.com/photos/10901976/pexels-photo-10901976.jpeg"
+        },
+        {
+          "title": "You’re Unstoppable",
+          "affirmation": "Don’t stop until you’re proud of yourself.",
+          "image": "https://images.pexels.com/photos/1351383/pexels-photo-1351383.jpeg"
+        },
+        {
+          "title": "Dreams Matter",
+          "affirmation": "Dream big, work hard, stay focused, and surround yourself with good people.",
+          "image": "https://images.pexels.com/photos/12708685/pexels-photo-12708685.jpeg"
+        },
+        {
+          "title": "Take the Leap",
+          "affirmation": "Don’t let fear stop you. Take the leap of faith!",
+          "image": "https://images.pexels.com/photos/9182743/pexels-photo-9182743.jpeg"
+        },
+        {
+          "title": "Persistence Pays Off",
+          "affirmation": "Success is not the key to happiness. Happiness is the key to success.",
+          "image": "https://images.pexels.com/photos/10564371/pexels-photo-10564371.jpeg"
+        },
+        {
+          "title": "Keep Hustling",
+          "affirmation": "Great things never come from comfort zones.",
+          "image": "https://images.pexels.com/photos/3792580/pexels-photo-3792580.jpeg"
+        },
+        {
+          "title": "Be the Change",
+          "affirmation": "Be the change you wish to see in the world.",
+          "image": "https://images.pexels.com/photos/14796894/pexels-photo-14796894.jpeg"
+        },
+        {
+          "title": "Go Beyond Limits",
+          "affirmation": "Your only limit is you. Push past it.",
+          "image": "https://images.pexels.com/photos/17864788/pexels-photo-17864788/free-photo-of-stars-on-night-sky-over-hills.jpeg"
+        },
+        {
+          "title": "No Excuses",
+          "affirmation": "The harder you work, the luckier you get.",
+          "image": "https://images.pexels.com/photos/14411149/pexels-photo-14411149.jpeg"
+        },
+        {
+          "title": "One Day Closer",
+          "affirmation": "Every day, you’re one step closer to your goal.",
+          "image": "https://images.pexels.com/photos/16157323/pexels-photo-16157323/free-photo-of-chit-chat.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Uplifting",
+      "affirmations": [
+        {
+          "title": "Light in You",
+          "affirmation": "Let your light shine so brightly that others are inspired.",
+          "image": "https://images.pexels.com/photos/3693901/pexels-photo-3693901.jpeg"
+        },
+        {
+          "title": "Be the Reason",
+          "affirmation": "Be the reason someone smiles today.",
+          "image": "https://images.pexels.com/photos/12943767/pexels-photo-12943767.jpeg"
+        },
+        {
+          "title": "You’ve Got This",
+          "affirmation": "You’re stronger than any challenge you face.",
+          "image": "https://images.pexels.com/photos/3974405/pexels-photo-3974405.jpeg"
+        },
+        {
+          "title": "Spread Kindness",
+          "affirmation": "Kindness costs nothing but means everything.",
+          "image": "https://images.pexels.com/photos/14823489/pexels-photo-14823489.jpeg"
+        },
+        {
+          "title": "Beautiful Day",
+          "affirmation": "Today is a beautiful day to shine your brightest.",
+          "image": "https://images.pexels.com/photos/19719091/pexels-photo-19719091/free-photo-of-a-view-of-the-city-from-a-hilltop.jpeg"
+        },
+        {
+          "title": "Radiate Joy",
+          "affirmation": "Joy is contagious—spread it everywhere you go.",
+          "image": "https://images.pexels.com/photos/29876936/pexels-photo-29876936/free-photo-of-joyful-expression-in-black-and-white-portrait.jpeg"
+        },
+        {
+          "title": "Small Steps Matter",
+          "affirmation": "Big journeys begin with small, consistent steps.",
+          "image": "https://images.pexels.com/photos/7938182/pexels-photo-7938182.jpeg"
+        },
+        {
+          "title": "Lift Others Up",
+          "affirmation": "When you lift others, you rise too.",
+          "image": "https://images.pexels.com/photos/29224583/pexels-photo-29224583/free-photo-of-industrial-hook-suspended-in-dramatic-light.jpeg"
+        },
+        {
+          "title": "New Possibilities",
+          "affirmation": "Each day brings new opportunities—embrace them!",
+          "image": "https://images.pexels.com/photos/5872378/pexels-photo-5872378.jpeg"
+        },
+        {
+          "title": "Inspire the World",
+          "affirmation": "Your smile has the power to inspire the world around you.",
+          "image": "https://images.pexels.com/photos/7230752/pexels-photo-7230752.jpeg"
+        }
+      ]
+    }
+  ]
+}

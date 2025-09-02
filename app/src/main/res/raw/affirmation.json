@@ -1,0 +1,444 @@
+{
+  "affirmations": [
+    {
+      "category": "Calm",
+      "affirmations": [
+        {
+          "title": "Stress Relief",
+          "affirmation": "I release all tension and allow my mind to rest in peace.",
+          "image": ""
+        },
+        {
+          "title": "Anxiety Management",
+          "affirmation": "I am safe, and everything will be okay.",
+          "image": ""
+        },
+        {
+          "title": "Mindful Breathing",
+          "affirmation": "With every deep breath, I feel calm and grounded.",
+          "image": ""
+        },
+        {
+          "title": "Inner Peace",
+          "affirmation": "Peace flows through me with every breath I take.",
+          "image": ""
+        },
+        {
+          "title": "Letting Go",
+          "affirmation": "I release what I cannot control and embrace inner peace.",
+          "image": ""
+        },
+        {
+          "title": "Acceptance",
+          "affirmation": "I accept life as it is and trust the process.",
+          "image": ""
+        },
+        {
+          "title": "Patience",
+          "affirmation": "I am patient, and I trust that good things take time.",
+          "image": ""
+        },
+        {
+          "title": "Mental Clarity",
+          "affirmation": "My mind is clear, focused, and at peace.",
+          "image": ""
+        },
+        {
+          "title": "Relaxation",
+          "affirmation": "I let my body and mind relax completely.",
+          "image": ""
+        },
+        {
+          "title": "Tranquility",
+          "affirmation": "I am surrounded by calmness, balance, and tranquility.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Personal Growth",
+      "affirmations": [
+        {
+          "title": "Growth Mindset",
+          "affirmation": "I learn, grow, and improve every single day.",
+          "image": ""
+        },
+        {
+          "title": "Self-Improvement",
+          "affirmation": "I am committed to becoming the best version of myself.",
+          "image": ""
+        },
+        {
+          "title": "Goal Setting",
+          "affirmation": "I set clear goals and take action to achieve them.",
+          "image": ""
+        },
+        {
+          "title": "Resilience",
+          "affirmation": "I face challenges with strength and positivity.",
+          "image": ""
+        },
+        {
+          "title": "Continuous Learning",
+          "affirmation": "I embrace knowledge and growth in every experience.",
+          "image": ""
+        },
+        {
+          "title": "Overcoming Fear",
+          "affirmation": "I move forward with courage and confidence.",
+          "image": ""
+        },
+        {
+          "title": "Discipline",
+          "affirmation": "I am consistent, focused, and disciplined in my efforts.",
+          "image": ""
+        },
+        {
+          "title": "Confidence Building",
+          "affirmation": "I believe in myself and my abilities.",
+          "image": ""
+        },
+        {
+          "title": "Courage",
+          "affirmation": "I have the courage to step out of my comfort zone.",
+          "image": ""
+        },
+        {
+          "title": "Adaptability",
+          "affirmation": "I embrace change and grow through it.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Self-Love",
+      "affirmations": [
+        {
+          "title": "Body Positivity",
+          "affirmation": "I love, honor, and appreciate my body as it is.",
+          "image": ""
+        },
+        {
+          "title": "Self-Worth",
+          "affirmation": "I am valuable, worthy, and deserving of love.",
+          "image": ""
+        },
+        {
+          "title": "Self-Acceptance",
+          "affirmation": "I accept and love myself unconditionally.",
+          "image": ""
+        },
+        {
+          "title": "Inner Beauty",
+          "affirmation": "My inner beauty shines brighter than any outer appearance.",
+          "image": ""
+        },
+        {
+          "title": "Self-Appreciation",
+          "affirmation": "I am proud of who I am and all that I’ve achieved.",
+          "image": ""
+        },
+        {
+          "title": "Overcoming Comparison",
+          "affirmation": "I am unique, and I embrace my journey.",
+          "image": ""
+        },
+        {
+          "title": "Self-Forgiveness",
+          "affirmation": "I forgive myself and release all guilt.",
+          "image": ""
+        },
+        {
+          "title": "Compassion for Self",
+          "affirmation": "I treat myself with kindness and compassion.",
+          "image": ""
+        },
+        {
+          "title": "Healthy Boundaries",
+          "affirmation": "I respect myself and honor my boundaries.",
+          "image": ""
+        },
+        {
+          "title": "Being Enough",
+          "affirmation": "I am enough, just as I am.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Motivation",
+      "affirmations": [
+        {
+          "title": "Daily Drive",
+          "affirmation": "I have the energy and focus to achieve my goals today.",
+          "image": ""
+        },
+        {
+          "title": "Overcoming Procrastination",
+          "affirmation": "I take action now because progress matters.",
+          "image": ""
+        },
+        {
+          "title": "Taking Action",
+          "affirmation": "I am productive, focused, and unstoppable.",
+          "image": ""
+        },
+        {
+          "title": "Persistence",
+          "affirmation": "I never give up because I believe in my dreams.",
+          "image": ""
+        },
+        {
+          "title": "Achieving Success",
+          "affirmation": "Success is within my reach, and I keep moving forward.",
+          "image": ""
+        },
+        {
+          "title": "Career Growth",
+          "affirmation": "I am growing and thriving in my career every day.",
+          "image": ""
+        },
+        {
+          "title": "Time Management",
+          "affirmation": "I manage my time wisely and make the most of my day.",
+          "image": ""
+        },
+        {
+          "title": "Energy Boost",
+          "affirmation": "I feel energized, refreshed, and ready for anything.",
+          "image": ""
+        },
+        {
+          "title": "Consistency",
+          "affirmation": "I stay consistent because small steps create big results.",
+          "image": ""
+        },
+        {
+          "title": "Breaking Comfort Zones",
+          "affirmation": "I step out of my comfort zone and grow stronger.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "affirmations": [
+        {
+          "title": "Daily Gratitude",
+          "affirmation": "I am thankful for this beautiful day and all it brings.",
+          "image": ""
+        },
+        {
+          "title": "Life’s Small Joys",
+          "affirmation": "I appreciate the little things that make life special.",
+          "image": ""
+        },
+        {
+          "title": "Gratitude for Relationships",
+          "affirmation": "I am grateful for the love and support in my life.",
+          "image": ""
+        },
+        {
+          "title": "Health Gratitude",
+          "affirmation": "I am thankful for my healthy body and mind.",
+          "image": ""
+        },
+        {
+          "title": "Financial Gratitude",
+          "affirmation": "I appreciate the financial security I have in my life.",
+          "image": ""
+        },
+        {
+          "title": "Past Experiences",
+          "affirmation": "I am grateful for my past because it made me who I am.",
+          "image": ""
+        },
+        {
+          "title": "Present Moment",
+          "affirmation": "I find joy and gratitude in the present moment.",
+          "image": ""
+        },
+        {
+          "title": "Nature Appreciation",
+          "affirmation": "I am thankful for the beauty and peace of nature.",
+          "image": ""
+        },
+        {
+          "title": "Opportunities",
+          "affirmation": "I am grateful for the opportunities life offers me.",
+          "image": ""
+        },
+        {
+          "title": "Future Gratitude",
+          "affirmation": "I am excited and grateful for the blessings to come.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Success",
+      "affirmations": [
+        {
+          "title": "Financial Success",
+          "affirmation": "I attract wealth, prosperity, and abundance into my life.",
+          "image": ""
+        },
+        {
+          "title": "Career Success",
+          "affirmation": "I am achieving success and reaching new heights.",
+          "image": ""
+        },
+        {
+          "title": "Goal Manifestation",
+          "affirmation": "I am capable of manifesting my dreams into reality.",
+          "image": ""
+        },
+        {
+          "title": "Entrepreneurial Growth",
+          "affirmation": "My ideas and efforts lead to growth and success.",
+          "image": ""
+        },
+        {
+          "title": "Abundance Mindset",
+          "affirmation": "I see abundance in every area of my life.",
+          "image": ""
+        },
+        {
+          "title": "Leadership",
+          "affirmation": "I lead with confidence, clarity, and kindness.",
+          "image": ""
+        },
+        {
+          "title": "Creativity",
+          "affirmation": "I am a creative and innovative thinker.",
+          "image": ""
+        },
+        {
+          "title": "Networking",
+          "affirmation": "I build strong, positive relationships that help me grow.",
+          "image": ""
+        },
+        {
+          "title": "Breaking Barriers",
+          "affirmation": "I overcome challenges and push beyond my limits.",
+          "image": ""
+        },
+        {
+          "title": "Celebrating Wins",
+          "affirmation": "I celebrate my achievements, big and small.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Relationships",
+      "affirmations": [
+        {
+          "title": "Healthy Friendships",
+          "affirmation": "I attract and maintain positive, supportive friendships.",
+          "image": ""
+        },
+        {
+          "title": "Romantic Love",
+          "affirmation": "I give and receive love in healthy, fulfilling ways.",
+          "image": ""
+        },
+        {
+          "title": "Family Bonds",
+          "affirmation": "I cherish and appreciate my family’s love and support.",
+          "image": ""
+        },
+        {
+          "title": "Forgiveness in Relationships",
+          "affirmation": "I release resentment and choose forgiveness.",
+          "image": ""
+        },
+        {
+          "title": "Communication",
+          "affirmation": "I communicate with honesty, clarity, and kindness.",
+          "image": ""
+        },
+        {
+          "title": "Trust Building",
+          "affirmation": "I build trust through my actions and words.",
+          "image": ""
+        },
+        {
+          "title": "Empathy",
+          "affirmation": "I understand and respect others’ feelings.",
+          "image": ""
+        },
+        {
+          "title": "Self-Love in Relationships",
+          "affirmation": "I honor myself and set healthy boundaries.",
+          "image": ""
+        },
+        {
+          "title": "Mutual Respect",
+          "affirmation": "I give and receive respect in all my relationships.",
+          "image": ""
+        },
+        {
+          "title": "Healing Connections",
+          "affirmation": "I nurture and heal my relationships with love and patience.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "category": "Confidence",
+      "affirmations": [
+        {
+          "title": "Self-Belief",
+          "affirmation": "I believe in my strengths, abilities, and potential.",
+          "image": ""
+        },
+        {
+          "title": "Overcoming Insecurity",
+          "affirmation": "I release doubts and embrace confidence.",
+          "image": ""
+        },
+        {
+          "title": "Public Speaking",
+          "affirmation": "I speak with clarity, confidence, and impact.",
+          "image": ""
+        },
+        {
+          "title": "Body Language",
+          "affirmation": "I stand tall and radiate confidence.",
+          "image": ""
+        },
+        {
+          "title": "Decision Making",
+          "affirmation": "I trust my choices and my ability to make good decisions.",
+          "image": ""
+        },
+        {
+          "title": "Social Confidence",
+          "affirmation": "I feel at ease and confident in social situations.",
+          "image": ""
+        },
+        {
+          "title": "Taking Risks",
+          "affirmation": "I take bold steps to create the life I want.",
+          "image": ""
+        },
+        {
+          "title": "Inner Strength",
+          "affirmation": "I am strong, capable, and unshakable.",
+          "image": ""
+        },
+        {
+          "title": "Speaking Up",
+          "affirmation": "I share my thoughts and opinions with confidence.",
+          "image": ""
+        },
+        {
+          "title": "Authenticity",
+          "affirmation": "I embrace who I truly am.",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

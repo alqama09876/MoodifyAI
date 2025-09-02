@@ -1,0 +1,322 @@
+{
+  "quotes": [
+    {
+      "category": "Work & Productivity",
+      "quotes": [
+        {
+          "title": "Focus",
+          "quote": "Focus on being productive instead of busy.",
+          "author": " ~ Tim Ferriss ~",
+          "image": "https://images.pexels.com/photos/355863/pexels-photo-355863.jpeg"
+        },
+        {
+          "title": "Time Management",
+          "quote": "You may delay, but time will not.",
+          "author": " ~ Benjamin Franklin ~",
+          "image": "https://images.pexels.com/photos/1178684/pexels-photo-1178684.jpeg"
+        },
+        {
+          "title": "Hard Work",
+          "quote": "The only place where success comes before work is in the dictionary.",
+          "author": " ~ Vidal Sassoon ~",
+          "image": "https://images.pexels.com/photos/4761782/pexels-photo-4761782.jpeg"
+        },
+        {
+          "title": "Perseverance",
+          "quote": "Success is the sum of small efforts, repeated day in and day out.",
+          "author": " ~ Robert Collier ~",
+          "image": "https://images.pexels.com/photos/8038638/pexels-photo-8038638.jpeg"
+        },
+        {
+          "title": "Procrastination",
+          "quote": "You don’t have to be great to start, but you have to start to be great.",
+          "author": " ~ Zig Ziglar ~",
+          "image": "https://images.pexels.com/photos/8051965/pexels-photo-8051965.jpeg"
+        },
+        {
+          "title": "Consistency",
+          "quote": "Small disciplines repeated with consistency every day lead to great achievements.",
+          "author": " ~ John C. Maxwell ~",
+          "image": "https://images.pexels.com/photos/29358797/pexels-photo-29358797/free-photo-of-wooden-chairs-with-repeated-pattern-in-auditorium.jpeg"
+        },
+        {
+          "title": "Success Mindset",
+          "quote": "The way to get started is to quit talking and begin doing.",
+          "author": " ~ Walt Disney ~",
+          "image": "https://images.pexels.com/photos/6956320/pexels-photo-6956320.jpeg"
+        },
+        {
+          "title": "Goals",
+          "quote": "Setting goals is the first step in turning the invisible into the visible.",
+          "author": " ~ Tony Robbins ~",
+          "image": "https://images.pexels.com/photos/8762585/pexels-photo-8762585.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Personal Growth",
+      "quotes": [
+        {
+          "title": "Self-Improvement",
+          "quote": "Be so busy improving yourself that you have no time to criticize others.",
+          "author": " ~ Chetan Bhagat ~",
+          "image": "https://images.pexels.com/photos/3831849/pexels-photo-3831849.jpeg"
+        },
+        {
+          "title": "Learning",
+          "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+          "author": " ~ Mahatma Gandhi ~",
+          "image": "https://images.pexels.com/photos/5428260/pexels-photo-5428260.jpeg"
+        },
+        {
+          "title": "Resilience",
+          "quote": "Do not judge me by my success, judge me by how many times I fell down and got back up again.",
+          "author": " ~ Nelson Mandela ~",
+          "image": "https://images.pexels.com/photos/29825229/pexels-photo-29825229/free-photo-of-black-and-white-gym-workout-with-cable-machine.jpeg"
+        },
+        {
+          "title": "Growth Mindset",
+          "quote": "Change is the end result of all true learning.",
+          "author": " ~ Leo Buscaglia ~",
+          "image": "https://images.pexels.com/photos/5662855/pexels-photo-5662855.png"
+        },
+        {
+          "title": "Self-Reflection",
+          "quote": "Knowing yourself is the beginning of all wisdom.",
+          "author": " ~ Aristotle ~",
+          "image": "https://images.pexels.com/photos/4132936/pexels-photo-4132936.png"
+        },
+        {
+          "title": "Courage",
+          "quote": "What you are afraid to do is a clear indication of the next thing you need to do.",
+          "author": " ~ Ralph Waldo Emerson ~",
+          "image": "https://images.pexels.com/photos/3077882/pexels-photo-3077882.jpeg"
+        },
+        {
+          "title": "Discipline",
+          "quote": "Discipline is choosing between what you want now and what you want most.",
+          "author": " ~ Abraham Lincoln ~",
+          "image": "https://images.pexels.com/photos/4761668/pexels-photo-4761668.jpeg"
+        },
+        {
+          "title": "Overcoming Fear",
+          "quote": "Courage is not the absence of fear, but the triumph over it.",
+          "author": " ~ Nelson Mandela ~",
+          "image": "https://images.pexels.com/photos/7005329/pexels-photo-7005329.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Relationships",
+      "quotes": [
+        {
+          "title": "Friendships",
+          "quote": "A real friend is one who walks in when the rest of the world walks out.",
+          "author": " ~ Walter Winchell ~",
+          "image": "https://images.pexels.com/photos/461049/pexels-photo-461049.jpeg"
+        },
+        {
+          "title": "Love",
+          "quote": "We are shaped and fashioned by those we love.",
+          "author": " ~ Johann Wolfgang von Goethe ~",
+          "image": "https://images.pexels.com/photos/704748/pexels-photo-704748.jpeg"
+        },
+        {
+          "title": "Trust",
+          "quote": "Trust is built when actions meet words.",
+          "author": " ~ Chris Butler ~",
+          "image": "https://images.pexels.com/photos/4365445/pexels-photo-4365445.jpeg"
+        },
+        {
+          "title": "Family Bonds",
+          "quote": "Family is not an important thing. It’s everything.",
+          "author": " ~ Michael J. Fox ~",
+          "image": "https://images.pexels.com/photos/6032994/pexels-photo-6032994.jpeg"
+        },
+        {
+          "title": "Communication",
+          "quote": "The most important thing in communication is hearing what isn’t said.",
+          "author": " ~ Peter Drucker ~",
+          "image": "https://images.pexels.com/photos/3183165/pexels-photo-3183165.jpeg"
+        },
+        {
+          "title": "Forgiveness",
+          "quote": "To forgive is to set a prisoner free and discover that the prisoner was you.",
+          "author": " ~ Lewis B. Smedes ~",
+          "image": "https://images.pexels.com/photos/3825297/pexels-photo-3825297.jpeg"
+        },
+        {
+          "title": "Empathy",
+          "quote": "When you start to develop your powers of empathy, life becomes better.",
+          "author": " ~ Oprah Winfrey ~",
+          "image": "https://images.pexels.com/photos/4021358/pexels-photo-4021358.jpeg"
+        },
+        {
+          "title": "Respect",
+          "quote": "If we lose love and self-respect for each other, this is how we finally die.",
+          "author": " ~ Maya Angelou ~",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Self-Love & Confidence",
+      "quotes": [
+        {
+          "title": "Self-Worth",
+          "quote": "You are enough just as you are.",
+          "author": " ~ Meghan Markle ~",
+          "image": "https://images.pexels.com/photos/6185278/pexels-photo-6185278.jpeg"
+        },
+        {
+          "title": "Body Positivity",
+          "quote": "To love yourself right now, just as you are, is to give yourself heaven.",
+          "author": " ~ Alan Cohen ~",
+          "image": "https://images.pexels.com/photos/17881677/pexels-photo-17881677/free-photo-of-model-in-blue-sportswear-on-the-tennis-court-next-to-the-model-in-white-shorts.jpeg"
+        },
+        {
+          "title": "Inner Strength",
+          "quote": "You never know how strong you are until being strong is your only choice.",
+          "author": " ~ Bob Marley ~",
+          "image": "https://images.pexels.com/photos/1241348/pexels-photo-1241348.jpeg"
+        },
+        {
+          "title": "Authenticity",
+          "quote": "Be yourself; everyone else is already taken.",
+          "author": " ~ Oscar Wilde ~",
+          "image": "https://images.pexels.com/photos/2954199/pexels-photo-2954199.jpeg"
+        },
+        {
+          "title": "Self-Belief",
+          "quote": "Believe you can and you’re halfway there.",
+          "author": " ~ Theodore Roosevelt ~",
+          "image": "https://images.pexels.com/photos/4045341/pexels-photo-4045341.jpeg"
+        },
+        {
+          "title": "Overcoming Insecurity",
+          "quote": "Confidence comes not from always being right, but from not fearing to be wrong.",
+          "author": " ~ Peter T. McIntyre ~",
+          "image": "https://images.pexels.com/photos/14028617/pexels-photo-14028617.jpeg"
+        },
+        {
+          "title": "Self-Respect",
+          "quote": "Respect yourself enough to walk away from anything that no longer serves you.",
+          "author": " ~ Robert Tew ~",
+          "image": "https://images.pexels.com/photos/28767841/pexels-photo-28767841/free-photo-of-inspiring-message-on-mirror-love-yourself.jpeg"
+        },
+        {
+          "title": "Self-Compassion",
+          "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+          "author": " ~ Buddha ~",
+          "image": "https://images.pexels.com/photos/6337610/pexels-photo-6337610.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Motivation & Success",
+      "quotes": [
+        {
+          "title": "Action",
+          "quote": "Act as if what you do makes a difference. It does.",
+          "author": " ~ William James ~",
+          "image": "https://images.pexels.com/photos/2225771/pexels-photo-2225771.jpeg"
+        },
+        {
+          "title": "Persistence",
+          "quote": "The secret of success is to do the common things uncommonly well.",
+          "author": " ~ John D. Rockefeller ~",
+          "image": "https://images.pexels.com/photos/2227122/pexels-photo-2227122.jpeg"
+        },
+        {
+          "title": "Dreams",
+          "quote": "All our dreams can come true if we have the courage to pursue them.",
+          "author": " ~ Walt Disney ~",
+          "image": "https://images.pexels.com/photos/8037024/pexels-photo-8037024.jpeg"
+        },
+        {
+          "title": "Success",
+          "quote": "Success usually comes to those who are too busy to be looking for it.",
+          "author": " ~ Henry David Thoreau ~",
+          "image": "https://images.pexels.com/photos/17068304/pexels-photo-17068304/free-photo-of-man-standing-with-arm-raised-at-sunset.jpeg"
+        },
+        {
+          "title": "Overcoming Challenges",
+          "quote": "The harder the conflict, the greater the triumph.",
+          "author": " ~ George Washington ~",
+          "image": "https://images.pexels.com/photos/9623479/pexels-photo-9623479.jpeg"
+        },
+        {
+          "title": "Inspiration",
+          "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+          "author": " ~ Ralph Waldo Emerson ~",
+          "image": "https://images.pexels.com/photos/3651820/pexels-photo-3651820.jpeg"
+        },
+        {
+          "title": "Confidence",
+          "quote": "Whether you think you can or you think you can’t, you’re right.",
+          "author": " ~ Henry Ford ~",
+          "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
+        },
+        {
+          "title": "Goals",
+          "quote": "A goal without a plan is just a wish.",
+          "author": " ~ Antoine de Saint-Exupéry ~",
+          "image": "https://images.pexels.com/photos/5717444/pexels-photo-5717444.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Gratitude & Positivity",
+      "quotes": [
+        {
+          "title": "Daily Gratitude",
+          "quote": "The more you practice gratitude, the more there is to be grateful for.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/12083015/pexels-photo-12083015.jpeg"
+        },
+        {
+          "title": "Small Joys",
+          "quote": "Enjoy the little things, for one day you may look back and realize they were the big things.",
+          "author": " ~ Robert Brault ~",
+          "image": "https://images.pexels.com/photos/8535925/pexels-photo-8535925.jpeg"
+        },
+        {
+          "title": "Present Moment",
+          "quote": "The present moment is all you ever have.",
+          "author": " ~ Eckhart Tolle ~",
+          "image": "https://images.pexels.com/photos/3972931/pexels-photo-3972931.jpeg"
+        },
+        {
+          "title": "Health",
+          "quote": "It is health that is real wealth and not pieces of gold and silver.",
+          "author": " ~ Mahatma Gandhi ~",
+          "image": "https://images.pexels.com/photos/1431283/pexels-photo-1431283.jpeg"
+        },
+        {
+          "title": "Life’s Beauty",
+          "quote": "The best way to pay for a lovely moment is to enjoy it.",
+          "author": " ~ Richard Bach ~",
+          "image": "https://images.pexels.com/photos/29805750/pexels-photo-29805750/free-photo-of-bright-yellow-sunflower-in-israeli-garden.png"
+        },
+        {
+          "title": "Nature’s Peace",
+          "quote": "In every walk with nature, one receives far more than he seeks.",
+          "author": " ~ John Muir ~",
+          "image": "https://images.pexels.com/photos/29810533/pexels-photo-29810533/free-photo-of-father-and-child-watching-sunset-by-the-sea.jpeg"
+        },
+        {
+          "title": "Blessings",
+          "quote": "Some people grumble that roses have thorns; I am grateful that thorns have roses.",
+          "author": " ~ Alphonse Karr ~",
+          "image": "https://images.pexels.com/photos/7363776/pexels-photo-7363776.jpeg"
+        },
+        {
+          "title": "Opportunities",
+          "quote": "Opportunities are usually disguised as hard work, so most people don’t recognize them.",
+          "author": " ~ Ann Landers ~",
+          "image": "https://images.pexels.com/photos/26546832/pexels-photo-26546832/free-photo-of-quote-on-a-window-glass.jpeg"
+        }
+      ]
+    }
+  ]
+}

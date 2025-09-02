@@ -1,0 +1,606 @@
+{
+  "quotes": [
+    {
+      "category": "Positive",
+      "quotes": [
+        {
+          "title": "Embrace Positivity",
+          "quote": "Everywhere you go, take a smile with you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/13899664/pexels-photo-13899664.jpeg"
+        },
+        {
+          "title": "Bright Day",
+          "quote": "Let your light shine brighter today.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/16960809/pexels-photo-16960809/free-photo-of-people-sitting-on-the-bench-and-looking-at-the-view-of-sea.jpeg"
+        },
+        {
+          "title": "Choose Happiness",
+          "quote": "Happiness is a choice, so choose it every moment.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/9300659/pexels-photo-9300659.jpeg"
+        },
+        {
+          "title": "Positive Vibes",
+          "quote": "Good vibes attract good lives.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg"
+        },
+        {
+          "title": "Energy Booster",
+          "quote": "Keep spreading the energy that inspires others.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8541401/pexels-photo-8541401.jpeg"
+        },
+        {
+          "title": "Infinite Joy",
+          "quote": "Happiness multiplies when shared.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/12955544/pexels-photo-12955544.jpeg"
+        },
+        {
+          "title": "New Beginnings",
+          "quote": "Each morning is a chance to start fresh.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2814808/pexels-photo-2814808.jpeg"
+        },
+        {
+          "title": "Be the Sunshine",
+          "quote": "Radiate positivity like the sun radiates warmth.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29874465/pexels-photo-29874465/free-photo-of-elderly-man-sitting-by-bosphorus-in-istanbul.jpeg"
+        },
+        {
+          "title": "Stay Joyful",
+          "quote": "Happiness is a journey, not a destination.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/4009589/pexels-photo-4009589.jpeg"
+        },
+        {
+          "title": "Gratitude Glow",
+          "quote": "A grateful heart is a magnet for joy.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/19833502/pexels-photo-19833502/free-photo-of-heart-shape-neon.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "quotes": [
+        {
+          "title": "Grateful Heart",
+          "quote": "A grateful heart is a magnet for miracles.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/4560448/pexels-photo-4560448.jpeg"
+        },
+        {
+          "title": "Simple Blessings",
+          "quote": "Happiness grows when you count your blessings.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29875895/pexels-photo-29875895/free-photo-of-dramatic-black-and-white-side-profile-portrait.jpeg"
+        },
+        {
+          "title": "Morning Thanks",
+          "quote": "Start your day with a thankful heart.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29861067/pexels-photo-29861067/free-photo-of-morning-coffee-with-latte-art-in-cozy-cafe-setting.jpeg"
+        },
+        {
+          "title": "Power of Gratitude",
+          "quote": "Gratitude turns what we have into enough.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/4220967/pexels-photo-4220967.jpeg"
+        },
+        {
+          "title": "Celebrate the Good",
+          "quote": "Find joy in the little things you often take for granted.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/5702979/pexels-photo-5702979.jpeg"
+        },
+        {
+          "title": "Today’s Gift",
+          "quote": "Each day is a gift—unwrap it with a smile.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29842376/pexels-photo-29842376/free-photo-of-cozy-christmas-holiday-flat-lay-with-gifts-and-cards.jpeg"
+        },
+        {
+          "title": "Thankful Moments",
+          "quote": "Collect moments, not things, and be thankful for them.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/10612260/pexels-photo-10612260.jpeg"
+        },
+        {
+          "title": "Shine Through Gratitude",
+          "quote": "The more grateful you are, the more beauty you’ll see.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29841330/pexels-photo-29841330/free-photo-of-dramatic-sunset-over-calm-ocean-waters.jpeg"
+        },
+        {
+          "title": "Endless Thanks",
+          "quote": "Gratitude is a never-ending story of joy.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6510344/pexels-photo-6510344.jpeg"
+        },
+        {
+          "title": "Grateful Soul",
+          "quote": "Happiness blooms where gratitude grows.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/2449605/pexels-photo-2449605.png"
+        }
+      ]
+    },
+    {
+      "category": "Self-Love",
+      "quotes": [
+        {
+          "title": "Love Yourself First",
+          "quote": "You can’t pour from an empty cup. Take care of yourself first.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8541356/pexels-photo-8541356.jpeg"
+        },
+        {
+          "title": "You Are Enough",
+          "quote": "Never forget, you are worthy just the way you are.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/20671757/pexels-photo-20671757/free-photo-of-paper-card-on-tree-bark.jpeg"
+        },
+        {
+          "title": "Inner Peace",
+          "quote": "Self-love is the foundation of inner peace.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/8038031/pexels-photo-8038031.jpeg"
+        },
+        {
+          "title": "Be Kind to You",
+          "quote": "Treat yourself the way you’d treat someone you love.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/9196486/pexels-photo-9196486.jpeg"
+        },
+        {
+          "title": "Radiate Confidence",
+          "quote": "Your vibe attracts your tribe. Love yourself first.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29878687/pexels-photo-29878687/free-photo-of-stylish-couple-posing-in-urban-environment.jpeg"
+        },
+        {
+          "title": "The Best You",
+          "quote": "The best project you’ll ever work on is yourself.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/14746728/pexels-photo-14746728.jpeg"
+        },
+        {
+          "title": "Own Your Story",
+          "quote": "Embrace your imperfections—they make you unique.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3007370/pexels-photo-3007370.jpeg"
+        },
+        {
+          "title": "Believe in You",
+          "quote": "The moment you believe in yourself, magic happens.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/1615776/pexels-photo-1615776.jpeg"
+        },
+        {
+          "title": "You Deserve Happiness",
+          "quote": "Give yourself permission to be happy every single day.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3101548/pexels-photo-3101548.jpeg"
+        },
+        {
+          "title": "Shine Bright",
+          "quote": "Self-love isn’t selfish—it’s the key to your happiness.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/6140243/pexels-photo-6140243.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Motivational",
+      "quotes": [
+        {
+          "title": "Keep Moving Forward",
+          "quote": "Every step you take brings you closer to your dreams.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/10901976/pexels-photo-10901976.jpeg"
+        },
+        {
+          "title": "You’re Unstoppable",
+          "quote": "Don’t stop until you’re proud of yourself.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/1351383/pexels-photo-1351383.jpeg"
+        },
+        {
+          "title": "Dreams Matter",
+          "quote": "Dream big, work hard, stay focused, and surround yourself with good people.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/12708685/pexels-photo-12708685.jpeg"
+        },
+        {
+          "title": "Take the Leap",
+          "quote": "Don’t let fear stop you. Take the leap of faith!",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/9182743/pexels-photo-9182743.jpeg"
+        },
+        {
+          "title": "Persistence Pays Off",
+          "quote": "Success is not the key to happiness. Happiness is the key to success.",
+          "author": " ~ Albert Schweitzer ~",
+          "image": "https://images.pexels.com/photos/10564371/pexels-photo-10564371.jpeg"
+        },
+        {
+          "title": "Keep Hustling",
+          "quote": "Great things never come from comfort zones.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3792580/pexels-photo-3792580.jpeg"
+        },
+        {
+          "title": "Be the Change",
+          "quote": "Be the change you wish to see in the world.",
+          "author": " ~ Mahatma Gandhi ~",
+          "image": "https://images.pexels.com/photos/14796894/pexels-photo-14796894.jpeg"
+        },
+        {
+          "title": "Go Beyond Limits",
+          "quote": "Your only limit is you. Push past it.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/17864788/pexels-photo-17864788/free-photo-of-stars-on-night-sky-over-hills.jpeg"
+        },
+        {
+          "title": "No Excuses",
+          "quote": "The harder you work, the luckier you get.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/14411149/pexels-photo-14411149.jpeg"
+        },
+        {
+          "title": "One Day Closer",
+          "quote": "Every day, you’re one step closer to your goal.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/16157323/pexels-photo-16157323/free-photo-of-chit-chat.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Uplifting",
+      "quotes": [
+        {
+          "title": "Light in You",
+          "quote": "Let your light shine so brightly that others are inspired.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3693901/pexels-photo-3693901.jpeg"
+        },
+        {
+          "title": "Be the Reason",
+          "quote": "Be the reason someone smiles today.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/12943767/pexels-photo-12943767.jpeg"
+        },
+        {
+          "title": "You’ve Got This",
+          "quote": "You’re stronger than any challenge you face.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/3974405/pexels-photo-3974405.jpeg"
+        },
+        {
+          "title": "Spread Kindness",
+          "quote": "Kindness costs nothing but means everything.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/14823489/pexels-photo-14823489.jpeg"
+        },
+        {
+          "title": "Beautiful Day",
+          "quote": "Today is a beautiful day to shine your brightest.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/19719091/pexels-photo-19719091/free-photo-of-a-view-of-the-city-from-a-hilltop.jpeg"
+        },
+        {
+          "title": "Radiate Joy",
+          "quote": "Joy is contagious—spread it everywhere you go.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29876936/pexels-photo-29876936/free-photo-of-joyful-expression-in-black-and-white-portrait.jpeg"
+        },
+        {
+          "title": "Small Steps Matter",
+          "quote": "Big journeys begin with small, consistent steps.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/7938182/pexels-photo-7938182.jpeg"
+        },
+        {
+          "title": "Lift Others Up",
+          "quote": "When you lift others, you rise too.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/29224583/pexels-photo-29224583/free-photo-of-industrial-hook-suspended-in-dramatic-light.jpeg"
+        },
+        {
+          "title": "New Possibilities",
+          "quote": "Each day brings new opportunities—embrace them!",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/5872378/pexels-photo-5872378.jpeg"
+        },
+        {
+          "title": "Inspire the World",
+          "quote": "Your smile has the power to inspire the world around you.",
+          "author": " ~ Unknown ~",
+          "image": "https://images.pexels.com/photos/7230752/pexels-photo-7230752.jpeg"
+        }
+      ]
+    }
+  ],
+  "affirmations": [
+    {
+      "category": "Positive",
+      "affirmations": [
+        {
+          "title": "Embrace Positivity",
+          "affirmation": "Everywhere you go, take a smile with you.",
+          "image": "https://images.pexels.com/photos/13899664/pexels-photo-13899664.jpeg"
+        },
+        {
+          "title": "Bright Day",
+          "affirmation": "Let your light shine brighter today.",
+          "image": "https://images.pexels.com/photos/16960809/pexels-photo-16960809/free-photo-of-people-sitting-on-the-bench-and-looking-at-the-view-of-sea.jpeg"
+        },
+        {
+          "title": "Choose Happiness",
+          "affirmation": "Happiness is a choice, so choose it every moment.",
+          "image": "https://images.pexels.com/photos/9300659/pexels-photo-9300659.jpeg"
+        },
+        {
+          "title": "Positive Vibes",
+          "affirmation": "Good vibes attract good lives.",
+          "image": "https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg"
+        },
+        {
+          "title": "Energy Booster",
+          "affirmation": "Keep spreading the energy that inspires others.",
+          "image": "https://images.pexels.com/photos/8541401/pexels-photo-8541401.jpeg"
+        },
+        {
+          "title": "Infinite Joy",
+          "affirmation": "Happiness multiplies when shared.",
+          "image": "https://images.pexels.com/photos/12955544/pexels-photo-12955544.jpeg"
+        },
+        {
+          "title": "New Beginnings",
+          "affirmation": "Each morning is a chance to start fresh.",
+          "image": "https://images.pexels.com/photos/2814808/pexels-photo-2814808.jpeg"
+        },
+        {
+          "title": "Be the Sunshine",
+          "affirmation": "Radiate positivity like the sun radiates warmth.",
+          "image": "https://images.pexels.com/photos/29874465/pexels-photo-29874465/free-photo-of-elderly-man-sitting-by-bosphorus-in-istanbul.jpeg"
+        },
+        {
+          "title": "Stay Joyful",
+          "affirmation": "Happiness is a journey, not a destination.",
+          "image": "https://images.pexels.com/photos/4009589/pexels-photo-4009589.jpeg"
+        },
+        {
+          "title": "Gratitude Glow",
+          "affirmation": "A grateful heart is a magnet for joy.",
+          "image": "https://images.pexels.com/photos/19833502/pexels-photo-19833502/free-photo-of-heart-shape-neon.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "affirmations": [
+        {
+          "title": "Grateful Heart",
+          "affirmation": "A grateful heart is a magnet for miracles.",
+          "image": "https://images.pexels.com/photos/4560448/pexels-photo-4560448.jpeg"
+        },
+        {
+          "title": "Simple Blessings",
+          "affirmation": "Happiness grows when you count your blessings.",
+          "image": "https://images.pexels.com/photos/29875895/pexels-photo-29875895/free-photo-of-dramatic-black-and-white-side-profile-portrait.jpeg"
+        },
+        {
+          "title": "Morning Thanks",
+          "affirmation": "Start your day with a thankful heart.",
+          "image": "https://images.pexels.com/photos/29861067/pexels-photo-29861067/free-photo-of-morning-coffee-with-latte-art-in-cozy-cafe-setting.jpeg"
+        },
+        {
+          "title": "Power of Gratitude",
+          "affirmation": "Gratitude turns what we have into enough.",
+          "image": "https://images.pexels.com/photos/4220967/pexels-photo-4220967.jpeg"
+        },
+        {
+          "title": "Celebrate the Good",
+          "affirmation": "Find joy in the little things you often take for granted.",
+          "image": "https://images.pexels.com/photos/5702979/pexels-photo-5702979.jpeg"
+        },
+        {
+          "title": "Today’s Gift",
+          "affirmation": "Each day is a gift—unwrap it with a smile.",
+          "image": "https://images.pexels.com/photos/29842376/pexels-photo-29842376/free-photo-of-cozy-christmas-holiday-flat-lay-with-gifts-and-cards.jpeg"
+        },
+        {
+          "title": "Thankful Moments",
+          "affirmation": "Collect moments, not things, and be thankful for them.",
+          "image": "https://images.pexels.com/photos/10612260/pexels-photo-10612260.jpeg"
+        },
+        {
+          "title": "Shine Through Gratitude",
+          "affirmation": "The more grateful you are, the more beauty you’ll see.",
+          "image": "https://images.pexels.com/photos/29841330/pexels-photo-29841330/free-photo-of-dramatic-sunset-over-calm-ocean-waters.jpeg"
+        },
+        {
+          "title": "Endless Thanks",
+          "affirmation": "Gratitude is a never-ending story of joy.",
+          "image": "https://images.pexels.com/photos/6510344/pexels-photo-6510344.jpeg"
+        },
+        {
+          "title": "Grateful Soul",
+          "affirmation": "Happiness blooms where gratitude grows.",
+          "image": "https://images.pexels.com/photos/2449605/pexels-photo-2449605.png"
+        }
+      ]
+    },
+    {
+      "category": "Self-Love",
+      "affirmations": [
+        {
+          "title": "Love Yourself First",
+          "affirmation": "You can’t pour from an empty cup. Take care of yourself first.",
+          "image": "https://images.pexels.com/photos/8541356/pexels-photo-8541356.jpeg"
+        },
+        {
+          "title": "You Are Enough",
+          "affirmation": "Never forget, you are worthy just the way you are.",
+          "image": "https://images.pexels.com/photos/20671757/pexels-photo-20671757/free-photo-of-paper-card-on-tree-bark.jpeg"
+        },
+        {
+          "title": "Inner Peace",
+          "affirmation": "Self-love is the foundation of inner peace.",
+          "image": "https://images.pexels.com/photos/8038031/pexels-photo-8038031.jpeg"
+        },
+        {
+          "title": "Be Kind to You",
+          "affirmation": "Treat yourself the way you’d treat someone you love.",
+          "image": "https://images.pexels.com/photos/9196486/pexels-photo-9196486.jpeg"
+        },
+        {
+          "title": "Radiate Confidence",
+          "affirmation": "Your vibe attracts your tribe. Love yourself first.",
+          "image": "https://images.pexels.com/photos/29878687/pexels-photo-29878687/free-photo-of-stylish-couple-posing-in-urban-environment.jpeg"
+        },
+        {
+          "title": "The Best You",
+          "affirmation": "The best project you’ll ever work on is yourself.",
+          "image": "https://images.pexels.com/photos/14746728/pexels-photo-14746728.jpeg"
+        },
+        {
+          "title": "Own Your Story",
+          "affirmation": "Embrace your imperfections—they make you unique.",
+          "image": "https://images.pexels.com/photos/3007370/pexels-photo-3007370.jpeg"
+        },
+        {
+          "title": "Believe in You",
+          "affirmation": "The moment you believe in yourself, magic happens.",
+          "image": "https://images.pexels.com/photos/1615776/pexels-photo-1615776.jpeg"
+        },
+        {
+          "title": "You Deserve Happiness",
+          "affirmation": "Give yourself permission to be happy every single day.",
+          "image": "https://images.pexels.com/photos/3101548/pexels-photo-3101548.jpeg"
+        },
+        {
+          "title": "Shine Bright",
+          "affirmation": "Self-love isn’t selfish—it’s the key to your happiness.",
+          "image": "https://images.pexels.com/photos/6140243/pexels-photo-6140243.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Motivational",
+      "affirmations": [
+        {
+          "title": "Keep Moving Forward",
+          "affirmation": "Every step you take brings you closer to your dreams.",
+          "image": "https://images.pexels.com/photos/10901976/pexels-photo-10901976.jpeg"
+        },
+        {
+          "title": "You’re Unstoppable",
+          "affirmation": "Don’t stop until you’re proud of yourself.",
+          "image": "https://images.pexels.com/photos/1351383/pexels-photo-1351383.jpeg"
+        },
+        {
+          "title": "Dreams Matter",
+          "affirmation": "Dream big, work hard, stay focused, and surround yourself with good people.",
+          "image": "https://images.pexels.com/photos/12708685/pexels-photo-12708685.jpeg"
+        },
+        {
+          "title": "Take the Leap",
+          "affirmation": "Don’t let fear stop you. Take the leap of faith!",
+          "image": "https://images.pexels.com/photos/9182743/pexels-photo-9182743.jpeg"
+        },
+        {
+          "title": "Persistence Pays Off",
+          "affirmation": "Success is not the key to happiness. Happiness is the key to success.",
+          "image": "https://images.pexels.com/photos/10564371/pexels-photo-10564371.jpeg"
+        },
+        {
+          "title": "Keep Hustling",
+          "affirmation": "Great things never come from comfort zones.",
+          "image": "https://images.pexels.com/photos/3792580/pexels-photo-3792580.jpeg"
+        },
+        {
+          "title": "Be the Change",
+          "affirmation": "Be the change you wish to see in the world.",
+          "image": "https://images.pexels.com/photos/14796894/pexels-photo-14796894.jpeg"
+        },
+        {
+          "title": "Go Beyond Limits",
+          "affirmation": "Your only limit is you. Push past it.",
+          "image": "https://images.pexels.com/photos/17864788/pexels-photo-17864788/free-photo-of-stars-on-night-sky-over-hills.jpeg"
+        },
+        {
+          "title": "No Excuses",
+          "affirmation": "The harder you work, the luckier you get.",
+          "image": "https://images.pexels.com/photos/14411149/pexels-photo-14411149.jpeg"
+        },
+        {
+          "title": "One Day Closer",
+          "affirmation": "Every day, you’re one step closer to your goal.",
+          "image": "https://images.pexels.com/photos/16157323/pexels-photo-16157323/free-photo-of-chit-chat.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Uplifting",
+      "affirmations": [
+        {
+          "title": "Light in You",
+          "affirmation": "Let your light shine so brightly that others are inspired.",
+          "image": "https://images.pexels.com/photos/3693901/pexels-photo-3693901.jpeg"
+        },
+        {
+          "title": "Be the Reason",
+          "affirmation": "Be the reason someone smiles today.",
+          "image": "https://images.pexels.com/photos/12943767/pexels-photo-12943767.jpeg"
+        },
+        {
+          "title": "You’ve Got This",
+          "affirmation": "You’re stronger than any challenge you face.",
+          "image": "https://images.pexels.com/photos/3974405/pexels-photo-3974405.jpeg"
+        },
+        {
+          "title": "Spread Kindness",
+          "affirmation": "Kindness costs nothing but means everything.",
+          "image": "https://images.pexels.com/photos/14823489/pexels-photo-14823489.jpeg"
+        },
+        {
+          "title": "Beautiful Day",
+          "affirmation": "Today is a beautiful day to shine your brightest.",
+          "image": "https://images.pexels.com/photos/19719091/pexels-photo-19719091/free-photo-of-a-view-of-the-city-from-a-hilltop.jpeg"
+        },
+        {
+          "title": "Radiate Joy",
+          "affirmation": "Joy is contagious—spread it everywhere you go.",
+          "image": "https://images.pexels.com/photos/29876936/pexels-photo-29876936/free-photo-of-joyful-expression-in-black-and-white-portrait.jpeg"
+        },
+        {
+          "title": "Small Steps Matter",
+          "affirmation": "Big journeys begin with small, consistent steps.",
+          "image": "https://images.pexels.com/photos/7938182/pexels-photo-7938182.jpeg"
+        },
+        {
+          "title": "Lift Others Up",
+          "affirmation": "When you lift others, you rise too.",
+          "image": "https://images.pexels.com/photos/29224583/pexels-photo-29224583/free-photo-of-industrial-hook-suspended-in-dramatic-light.jpeg"
+        },
+        {
+          "title": "New Possibilities",
+          "affirmation": "Each day brings new opportunities—embrace them!",
+          "image": "https://images.pexels.com/photos/5872378/pexels-photo-5872378.jpeg"
+        },
+        {
+          "title": "Inspire the World",
+          "affirmation": "Your smile has the power to inspire the world around you.",
+          "image": "https://images.pexels.com/photos/7230752/pexels-photo-7230752.jpeg"
+        }
+      ]
+    }
+  ]
+}
